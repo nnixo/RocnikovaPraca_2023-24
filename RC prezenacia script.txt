@@ -1,0 +1,20 @@
+ARPANET (1969): Začiatok internetu sa datuje k vzniku ARPANETu, prvej siete, ktorá použila technológiu paketového prepínania. ARPANET bol vyvinutý americkým Ministerstvom obrany 
+
+Prvý významný útok na počítačovú sieť, Morrisov červ bol navrhnutý na to, aby zistil veľkosť internetu. Avšak kvôli chybe v kóde sa červ rýchlo nekontrolovane šíril a infikoval približne 6,000 počítačov pripojených k ARPANETu. Červ spôsobil spomalenie alebo znefunkčnenie infikovaných systémov
+
+Prvý firewall, známy ako Packet-Filtering Firewall, bol vyvinutý v zaciatkom 90. rokov. Packet-filtering firewall bol prvým typom firewallu, ktorý analyzoval dátové pakety na základe informácií ako IP adresa odosielateľa a príjemcu, porty a protokoly. Tento typ firewallu umožnil alebo zablokoval prístup k sieti na základe stanovených pravidiel.
+
+World Wide Web (WWW), výrazne zjednodušil prístup k informáciám a popularizoval používanie internetu medzi širokou verejnosťou.
+
+Phishing je technika, pri ktorej útočníci posielajú falošné e-maily, aby získali citlivé informácie. Spyware sleduje aktivitu používateľov a mení nastavenia počítača. Keylogging zaznamenáva stlačené klávesy a môže byť softvérový alebo hardvérový. Ransomware zašifruje dáta a požaduje výkupné za ich odomknutie.
+
+Existuje niekoľko účinných obranných metód. Firewall monitoruje a riadi sieťovú prevádzku a zablokuje neoprávnený prístup.
+Antivírusový softvér detekuje a odstraňuje malvér a pravidelne sa aktualizuje.
+Šifrovanie chráni dáta pri prenose. 
+Pravidelné zálohovanie dát zabezpečuje ochranu pred stratou dát, napríklad pri ransomware útoku. 
+Dvojfaktorová autentifikácia pridáva dodatočnú vrstvu zabezpečenia a 
+vzdelávanie užívateľov zvyšuje povedomie o bezpečných praktikách.
+
+Pri tvorbe plagátu som najprv urobil prieskum na internete, aby som zistil, ako by mal vyzerať plagát a čo by mal obsahovať. Potom som pridal hlavné body a popisy, zvolil som grafický dizajn a potom som už len pridal detaily, ako je naprikald QR kod k RC praci. Hotový plagát ste už videli na minulom slajde.
+
+Na záver by som rád zhrnul dôležitosť bezpečnosti na počítačových sieťach. Siete sú neustále vystavené rôznym hrozbám, ako sú phishing, spyware, ransomware a ďalšie. Obranné metódy, ako sú firewally, antivírusové programy, šifrovanie dát, zálohovanie, dvojfaktorová autentifikácia a vzdelávanie užívateľov, sú kľúčové pre ochranu našich dát. V budúcnosti očakávame vývoj nových bezpečnostných technológií, ktoré ešte viac zvýšia našu ochranu
